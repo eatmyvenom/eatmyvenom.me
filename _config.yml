@@ -1,8 +1,8 @@
-title: EatMyVenoms Site
+title: Welcome to my site
 author: EatMyVenom
 url: https://eatmyvenom.me # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Just a little site to tell people about me
+  This is just a little site to tell people about me.
 
 permalink: /:slug.html
 
@@ -12,7 +12,7 @@ twitter:
     username: drinksvenom # update or delete this
     card: summary_large_image
 
-#theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+# theme: /home/eatmyvenom/code/general/moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: eatmyvenom/moonwalk
 
 theme_config:
